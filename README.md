@@ -5,7 +5,8 @@
 - 👯 I’m looking to collaborate on frontend projects
 - 💬 Ask me about HTML, CSS, JS and frontend frameworks
 
-- 📫 How to reach me: **[Gmail](mailto: "kimanikevin254@gmail.com")** 
+- 📫 How to reach me:  <a href="mailto:kimanikevin254@gmail.com">Gmail</a>
+ 
 
 - ⚡ Dumb joke: **Monitor 1:** Its a new year. What's your resolution?   **Monitor 2:** Same as always, 1024 x 768
 
