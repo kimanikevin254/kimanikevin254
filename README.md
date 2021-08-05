@@ -23,8 +23,3 @@
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimanikevin254&theme=tokyonight)
 
-### My Profile visitors count
-![](https://visitor-badge.laobi.icu/badge?page_id=kimanikevin254.kimanikevin254)
-
-### My followers count
-[![Github](https://img.shields.io/github/followers/kimanikevin254?label=Follow&style=social)](https://github.com/kimanikevin254)
