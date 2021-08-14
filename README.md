@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1> Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="40"
+         width="40" />,
+ I am Kevin Kimani.
+ </h1>
+ 
+<h3>I develop websites for fun😇</h3>
 
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning VueJS
