@@ -8,9 +8,9 @@
 <h3>I develop websites for fun😇</h3>
 
 - 🔭 I’m currently working on web development
-- 🌱 I’m currently learning VueJS
-- 👯 I’m looking to collaborate on frontend projects
-- 💬 Ask me about HTML, CSS, JS and frontend frameworks
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on MERN projects
+- 💬 Ask me about the MERN stack
 
 - 📫 How to reach me:  <a href="mailto:kimanikevin254@gmail.com">Gmail</a>
  
