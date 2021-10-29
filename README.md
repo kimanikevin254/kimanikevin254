@@ -7,7 +7,7 @@
  
 <h3>I'm a FullStack JavaScript Developer</h3>
 
-- Currently working on React projects
+- Currently working on React and Django projects
 - Looking to collaborate on MERN projects
 - Ask me about Web Development
 
