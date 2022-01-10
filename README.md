@@ -8,7 +8,7 @@
 <h3>I'm a FullStack JavaScript Developer</h3>
 
 - Currently working on React and Django projects
-- Looking to collaborate on MERN projects
+- Looking to collaborate on web projects
 - Ask me about Web Development
 
 - 📫 How to reach me:  <a href="mailto:kimanikevin254@gmail.com">Gmail</a>
