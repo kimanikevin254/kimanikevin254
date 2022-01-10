@@ -11,7 +11,7 @@
 - Looking to collaborate on web projects
 - Ask me about Web Development
 
-- 📫 How to reach me:  <a href="mailto:kimanikevin254@gmail.com">Gmail</a>
+- <a href="mailto:kimanikevin254@gmail.com">Contact me...</a>
  
 
 ### Languages and Frameworks I Use:
