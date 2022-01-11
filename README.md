@@ -28,9 +28,20 @@
 
 </p>
 
-### My Stats
+<p>
+ 
+<!-- ### My Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimanikevin254&show_icons=true&theme=algolia)
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimanikevin254&count_private=true&theme=algolia&v2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimanikevin254&count_private=true&theme=algolia&v2) -->
+</p>
+  
+  ### My Stats
+  <table align="center">
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimanikevin254&count_private=true&theme=algolia&v2"></td> 
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=kimanikevin254&show_icons=true&theme=algolia"></td>     
+  </tr>   
+</table>
 
