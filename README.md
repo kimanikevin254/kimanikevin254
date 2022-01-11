@@ -5,7 +5,7 @@
  I am Kevin Kimani.
  </h1>
  
-<h3>I'm a FullStack JavaScript Developer</h3>
+<h3>I'm a React | NodeJS | Django Web Developer</h3>
 
 - Currently working on React and Django projects
 - Looking to collaborate on web projects
