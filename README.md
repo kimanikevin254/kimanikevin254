@@ -26,12 +26,11 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySql" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
 
-<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"> -->
 </p>
 
 ### My Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimanikevin254&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimanikevin254&show_icons=true&theme=algolia)
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimanikevin254&count_private=true&theme=tokyonight&v2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimanikevin254&count_private=true&theme=algolia&v2)
 
