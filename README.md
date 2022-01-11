@@ -5,7 +5,7 @@
  I am Kevin Kimani.
  </h1>
  
-<h3>I'm a React | NodeJS | Django Web Developer</h3>
+<h3>React | NodeJS | Django Web Developer</h3>
 
 - Currently working on React and Django projects
 - Looking to collaborate on web projects
@@ -40,7 +40,7 @@
   ### My Stats
   <table align="center">
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimanikevin254&count_private=true&theme=algolia&v2"></td> 
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimanikevin254&count_private=true&theme=algolia&v2&layout=compact"></td> 
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=kimanikevin254&show_icons=true&theme=algolia"></td>     
   </tr>   
 </table>
