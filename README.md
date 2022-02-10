@@ -5,7 +5,7 @@
  I am Kevin Kimani.
  </h1>
  
-<h3 align="center">React | NodeJS | Django Web Developer</h3>
+<h3 align="center">React | Node.js | Django Web Developer</h3>
 
 <p align="center">
 I am a FullStack Web Developer specializing in React, Node.js and Django. I enjoy creating websites, writing technical articles and collaborating on open source projects. 
