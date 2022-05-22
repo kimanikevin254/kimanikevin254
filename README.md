@@ -17,6 +17,8 @@ I am a FullStack Web Developer specializing in React, Node.js and Django. I enjo
 
 <p align="center"><a href="mailto:kimanikevin254@gmail.com">Contact me...</a></p>
 </p>
+
+<p align="center"> <img src="https://www.codewars.com/users/kimanikevin254/badges/large"> </p>
  
 
 <h3 align="center">My Tech Stack</h3>
