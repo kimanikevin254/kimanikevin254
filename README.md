@@ -42,7 +42,7 @@ I am a FullStack Web Developer specializing in React, Node.js and Django. I enjo
 <!-- ### My Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimanikevin254&show_icons=true&theme=algolia)
 
-### Most Used Languages
+### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimanikevin254&count_private=true&theme=algolia&v2) -->
 </p>
   
