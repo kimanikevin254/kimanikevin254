@@ -19,7 +19,10 @@ I am a FullStack Web Developer specializing in React, Node.js and Django. I enjo
 </p>
 
 <p align="center"> <img src="https://www.codewars.com/users/kimanikevin254/badges/large"> </p>
- 
+
+<h3 align="center">Blog Posts I Have Worked On</h3>
+<!-- <p><a href="https://www.section.io/engineering-education/authors/kevin-murimi/">Section.io</a></p>  -->
+
 
 <h3 align="center">My Tech Stack</h3>
 <p align="center">
