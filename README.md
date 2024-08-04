@@ -30,13 +30,13 @@ I'm a Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, 
     <tr>
       <td align="center"><img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" /></td>
       <td align="center"><img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /></td>
       <td align="center"><img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" /></td>
     </tr>
     <tr>
       <td align="center"><img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" /></td>
       <td align="center"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></td>
-      <td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat" /></td>
       <td align="center"><img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
     </tr>
     <tr>
