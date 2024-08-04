@@ -8,11 +8,12 @@ I'm a Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, 
 
 <p align="center">Feel free to reach out for collaboration or hiring opportunities...</p>
 
-<p align="center"><a href="mailto:kimanikevin254@gmail.com">Contact me</a></p>
-
-<p align="center">
-  <img src="https://www.codewars.com/users/kimanikevin254/badges/large">
+<p align="center"><a href="mailto:kimanikevin254@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+
 
 <h3 align="center">My Tech Stack</h3>
 <p align="center">
